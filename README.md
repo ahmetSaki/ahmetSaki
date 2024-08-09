@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on building websites using Html, Css and Javascript and android apps using Dart/Flutter.<br>🤝 I am currently learning React.<br>    I am improving myself in Javascript and Dart/Flutter languages.<br>🌱 Although I am at the beginning of software, I am trying to learn React and I am improving myself in Dart/Flutter. My main goal is to specialize in web applications and android applications.
+🔭 I am currently working on building websites using Html, Css and Javascript and android apps using Dart/Flutter.<br><br>🤝 I am currently learning React.<br>    I am improving myself in Javascript and Dart/Flutter languages.<br><br>🌱 Although I am at the beginning of software, I am trying to learn React and I am improving myself in Dart/Flutter. My main goal is to specialize in web applications and android applications.
 
 
 # 💻 Tech Stack:
