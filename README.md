@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmetSaki&theme=dark&hide_border=true)<br/>
 
-<iframe src="https://giphy.com/embed/I7kMRW6mj4YtW" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/robot-gameraboy-val-I7kMRW6mj4YtW"></a></p>
+
 
 ---![]([https://media.giphy.com/media/I7kMRW6mj4YtW/giphy.gif](https://giphy.com/embed/I7kMRW6mj4YtW))
 [![](https://visitcount.itsvg.in/api?id=ahmetSaki&icon=0&color=0)](https://visitcount.itsvg.in)
